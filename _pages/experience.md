@@ -15,18 +15,23 @@ author_profile: true
 [Anchorblock Technology Limited](https://anchorblock.ai/ "https://anchorblock.ai/"), Dhaka, Bangladesh\\
     * **Period:** _January 2023 – Present_
     * Developed Bengali Writing Guide platform [BanglaBritti](https://banglabritti.com/ "https://banglabritti.com/").
+<br/>
+<br/>
 
 * **Junior Machine Learning Engineer**\\
 [Anchorblock Technology Limited](https://anchorblock.ai/ "https://anchorblock.ai/"), Dhaka, Bangladesh\\
     * **Period:** _September 2022 – December 2022_
+<br/>
+<br/>
+<br/>
 
-
-* **Adjunct Lenturer**\\
+* **Adjunct Lecturer**\\
 [Ahsanullah University of Science and Technology](https://aust.edu/ "https://aust.edu/"), Dhaka, Bangladesh\\
     * **Period:** _July 2022 – Present_
     * Conduct CSE 4130 Formal Languages and Compiler Lab.
     * Conduct CSE 1200 Software Development Lab.
     * Conduct CSE 3110 Digital System Design Lab.
+<br/>
 <br/>
 <br/>
 
