@@ -40,7 +40,8 @@ author_profile: true
     * **Period:** _September 2021 – April 2022_
     * Implemented a G2P model for Bengali and gained state-of-the-art accuracy (99%) on unseen data.
     * Prepared large-scale (nearly 600 hours) audio data for better Bengali ASR training.
-    * Speech synthesis: Developed Bengali Speech Synthesizer using open source CoquiTTS. Trained HifiGAN based vocoder for Bengali.
+    * Speech synthesis: Developed Bengali Speech Synthesizer using open source CoquiTTS. 
+    * Trained HifiGAN based vocoder for Bengali.
     * Conversational AI: Developed AI-driven chatbots using Rasa Open Source.
     * [Bengali transcriber](https://sensevoice.intelsense.ai/ "https://sensevoice.intelsense.ai/"): Prepared the annotated corpus for the Bengali transcriber; already in use.
 <br/>
