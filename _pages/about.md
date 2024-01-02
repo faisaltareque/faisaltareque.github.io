@@ -18,4 +18,4 @@ I am currently collaborating with [Mir Tafseer Nayeem](https://scholar.google.co
 <!---
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zvuzuYG5Lmg-HQr6bbRY41UVcTuU9YJq4WEjJ9nZ-z4&cl=ffffff&w=300" ></script>
 -->
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=tVTayxsZbIwH9AS8ueuxjW4Dv8uB7dG_b2vY8ekGKaE"></script>
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=tVTayxsZbIwH9AS8ueuxjW4Dv8uB7dG_b2vY8ekGKaE&cl=ffffff&w=300"></script>
