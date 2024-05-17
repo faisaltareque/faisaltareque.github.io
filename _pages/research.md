@@ -24,6 +24,12 @@ author_profile: true
 ## Publications
 
 ---
+* <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags](https://openreview.net/forum?id=Nw9fMMp7Rh)\\
+<img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> <b>Faisal Tareque Shohan<b>\*, Mir Tafseer Nayeem\*, Samsul Islam, Abu Ubaida Akash, Shafiq Joty\\
+<img src="https://img.icons8.com/ultraviolet/20/null/performance.png"/> <span style="color:RoyalBlue">Conference:</span> In Findings of the Association for Computational Linguistics ([ACL 2024](https://2024.aclweb.org))\\
+<img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `accepted`\\
+<img src="https://abuubaida.github.io/images/pointer.png"/> 
+
 
 * <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [Shironaam: Bengali News Headline Generation using Auxiliary Information](https://aclanthology.org/2023.eacl-main.4/)\\
 <img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> Abu Ubaida Akash\*, Mir Tafseer Nayeem\*, <b>Faisal Tareque Shohan</b>, Tanvir Islam\\
@@ -47,8 +53,8 @@ author_profile: true
 <span style="color:RoyalBlue">Collaborators:</span> <b>Abu Ubaida Akash</b>, Mir Tafseer Nayeem, Faisal Tareque Shohan, Samsul Islam\\
 <span style="color:RoyalBlue">Status:</span> `ongoing` -->
 
-* <span style="color:RoyalBlue">Theme:</span> Multilingual and Multimodal Headline Generation\\
-<span style="color:RoyalBlue">Collaborators:</span> <b>Faisal Tareque Shohan</b>, Mir Tafseer Nayeem, Abu Ubaida Akash, Samsul Islam\\
+* <span style="color:RoyalBlue">Theme:</span> Controlled Summarization\\
+<span style="color:RoyalBlue">Collaborators:</span> <b>Faisal Tareque Shohan</b>, Mir Tafseer Nayeem, Shafiq Joty\\
 <span style="color:RoyalBlue">Status:</span> `ongoing`
 
 <!-- {% for post in site.research reversed %}
