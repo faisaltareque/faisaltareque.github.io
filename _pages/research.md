@@ -28,7 +28,7 @@ author_profile: true
 <img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> <b>Faisal Tareque Shohan</b>\*, Mir Tafseer Nayeem\*, Samsul Islam, Abu Ubaida Akash, Shafiq Joty\\
 <img src="https://img.icons8.com/ultraviolet/20/null/performance.png"/> <span style="color:RoyalBlue">Conference:</span> In Findings of the Association for Computational Linguistics ([ACL 2024](https://2024.aclweb.org))\\
 <img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `accepted`\\
-<img src="https://abuubaida.github.io/images/pointer.png"/> 
+<!-- <img src="https://abuubaida.github.io/images/pointer.png"/>  -->
 
 
 * <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [Shironaam: Bengali News Headline Generation using Auxiliary Information](https://aclanthology.org/2023.eacl-main.4/)\\
