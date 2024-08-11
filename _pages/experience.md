@@ -43,7 +43,7 @@ author_profile: true
     * Speech synthesis: Developed Bengali Speech Synthesizer using open source CoquiTTS. 
     * Trained HifiGAN based vocoder for Bengali.
     * Conversational AI: Developed AI-driven chatbots using Rasa Open Source.
-    * [Bengali transcriber](https://sensevoice.intelsense.ai/ "https://sensevoice.intelsense.ai/"): Prepared the annotated corpus for the Bengali transcriber; already in use.
+    * Bengali transcriber: Prepared the annotated corpus for the Bengali transcriber; already in use.
 <br/>
 <br/>
 
