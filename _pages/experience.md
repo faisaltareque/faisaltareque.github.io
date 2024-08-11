@@ -82,8 +82,10 @@ author_profile: true
 ## Honours & Awards
 
 ---
-* Half Scholarship for Academic Performance during B.Sc. in CSE at [AUST](https://aust.edu/) _(2020-2021)_
-* Robi-Datathon 2.0 **<span style="color:RoyalBlue">Finalist</span>** (Top 6% among 358 Teams); organized by [Robi Axiata Limited](https://www.robi.com.bd/en) _(2022)_
+* **<span style="color:RoyalBlue">Diversity & Inclusion Award</span>** (Registration fee waiver, travel grant, hotel accommodation) from [ACL](https://2024.aclweb.org/calls/subsidies/) (Bangkok, Thailand); sponsored by [IBM Research](https://research.ibm.com) _(2024)_
+* Robi-Datathon 2.0 **<span style="color:RoyalBlue">Finalist</span>** (Top 5% among 358 Teams); organized by [Robi Axiata Limited](https://www.robi.com.bd/en) _(2022)_
+* University Merit Scholarship during B.Sc. in CSE at [AUST](https://aust.edu/) _(2020-2021)_
+
 
 
 
