@@ -14,7 +14,7 @@ author_profile: true
 * **Machine Learning Engineer**\\
 [Anchorblock Technology Limited](https://anchorblock.ai/ "https://anchorblock.ai/"), Dhaka, Bangladesh\\
     * **Period:** _January 2023 – Present_
-    * Developed Bengali Writing Guide platform [BanglaBritti](https://banglabritti.com/ "https://banglabritti.com/").
+    * Developed Bengali Writing Guide platform **BanglaBritti**.
 <br/>
 <br/>
 
