@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Faisal Tareque Shohan"
 title_separator          : "-"
 name                     : &name "Faisal Tareque SHohan"
-description              : &description ""
+description              : &description "Machine Learning Engineer"
 url                      : https://faisaltareque.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "faisaltareque/faisaltareque.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Faisal Tareque Shohan"
   avatar           : "Faisal1.jpeg"
-  bio              : ""
+  bio              : "Machine Learning Engineer"
   location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : 

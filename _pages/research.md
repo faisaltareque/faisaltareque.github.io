@@ -24,18 +24,18 @@ author_profile: true
 ## Publications
 
 ---
-* <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags](https://openreview.net/forum?id=Nw9fMMp7Rh)\\
+* <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags](https://arxiv.org/abs/2406.03776)\\
 <img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> <b>Faisal Tareque Shohan</b>\*, Mir Tafseer Nayeem\*, Samsul Islam, Abu Ubaida Akash, Shafiq Joty\\
 <img src="https://img.icons8.com/ultraviolet/20/null/performance.png"/> <span style="color:RoyalBlue">Conference:</span> In Findings of the Association for Computational Linguistics ([ACL 2024](https://2024.aclweb.org))\\
 <img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `accepted`\\
-<!-- <img src="https://abuubaida.github.io/images/pointer.png"/>  -->
+<img src="https://faisaltareque.github.io/images/pointer.png"/> [<span style ="color:DarkBlue">[Code & Dataset]</span>](https://github.com/faisaltareque/XL-HeadTags)   [<span style ="color:DarkBlue">[Poster]</span>](https://faisaltareque.github.io/files/XL-HeadTags_ACL_2024_Poster.pdf)  [<span style ="color:DarkBlue">[Slides]</span>](https://faisaltareque.github.io/files/XL-HeadTags_ACL_2024_Presentation.pdf)
 
 
 * <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [Shironaam: Bengali News Headline Generation using Auxiliary Information](https://aclanthology.org/2023.eacl-main.4/)\\
 <img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> Abu Ubaida Akash\*, Mir Tafseer Nayeem\*, <b>Faisal Tareque Shohan</b>, Tanvir Islam\\
 <img src="https://img.icons8.com/ultraviolet/20/null/performance.png"/> <span style="color:RoyalBlue">Conference:</span> Proceedings of the European Chapter of the Association for Computational Linguistics ([EACL 2023](https://2023.eacl.org/))\\
 <img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `accepted`\\
-<img src="https://abuubaida.github.io/images/pointer.png"/> [<span style ="color:DarkBlue">[Code & Dataset]</span>](https://github.com/dialect-ai/BenHeadGen)   [<span style ="color:DarkBlue">[Poster]</span>](https://faisaltareque.github.io/files/shironaam_eacl2023_poster_final.pdf)  [<span style ="color:DarkBlue">[Slides]</span>](https://faisaltareque.github.io/files/Shironaam_EACL_2023_Presentation.pdf)
+<img src="https://faisaltareque.github.io/images/pointer.png"/> [<span style ="color:DarkBlue">[Code & Dataset]</span>](https://github.com/dialect-ai/BenHeadGen)   [<span style ="color:DarkBlue">[Poster]</span>](https://faisaltareque.github.io/files/shironaam_eacl2023_poster_final.pdf)  [<span style ="color:DarkBlue">[Slides]</span>](https://faisaltareque.github.io/files/Shironaam_EACL_2023_Presentation.pdf)
 
 
 * <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [Crime Prediction using Machine Learning with a Novel Crime Dataset](https://arxiv.org/abs/2211.01551) \\
