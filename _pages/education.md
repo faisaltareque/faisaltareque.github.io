@@ -10,7 +10,7 @@ author_profile: true
 ---
 
 <!-- * **Period:** _May 2017 – January 2022_ -->
-* **Institution:** Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/")), Dhaka, Bangladesh
+* **Institution:** Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/ "https://www.aust.edu/")), Dhaka, Bangladesh
 * **CGPA:** 3.695 _[on a scale of 4.0]_ _(top 6%)_
     * **<span style="color:RoyalBlue">Major CGPA:</span>** 3.810 _[last two years]_
 * **University Merit Scholarship**
