@@ -43,7 +43,7 @@ author_profile: true
 ---
 
 <!-- * **Period:** _July 2014 – July 2016_ -->
-* **Institution:** Notre Dame College ([NDC](https://ndc.edu.bd/, "https://ndc.edu.bd/")), Dhaka, Bangladesh.
+* **Institution:** Notre Dame College ([NDC](https://ndc.edu.bd/ "https://ndc.edu.bd/")), Dhaka, Bangladesh.
 * **GPA:** 5.0 _[on a scale of 5.0]_.
 
 
@@ -53,7 +53,7 @@ author_profile: true
 ---
 
 <!-- * **Period:** _January 2012 – January 2014_ -->
-* **Institution:** BN School and College ([BNCD](https://bncd.edu.bd/, "https://bncd.edu.bd/")), Dhaka, Bangladesh.
+* **Institution:** BN School and College ([BNCD](https://bncd.edu.bd/ "https://bncd.edu.bd/")), Dhaka, Bangladesh.
 * **GPA:** 5.0 _[on a scale of 5.0]_.
 
 ---
