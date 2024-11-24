@@ -13,7 +13,7 @@ author_profile: true
 
 * **Adjunct Lecturer**\\
 [Ahsanullah University of Science and Technology](https://aust.edu/ "https://aust.edu/"), Dhaka, Bangladesh\\
-    * **Period:** _June 2022 – February 2023_
+    * **Period:** _August 2022 – November 2022_
     * Conduct CSE 4130 Formal Languages and Compiler Lab.
     * Conduct CSE 1200 Software Development Lab.
     * Conduct CSE 3110 Digital System Design Lab.
