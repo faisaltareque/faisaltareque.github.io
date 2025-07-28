@@ -5,6 +5,15 @@ title: "Education"
 author_profile: true
 ---
 
+## <img src="https://img.icons8.com/office/24/000000/graduation-cap.png"/> Master of Science (M.Sc.) in Computer Science
+
+---
+
+* **Period:** _January 2025 – Present_
+* **Institution:** Université de Sherbrooke ([UdeS](https://www.usherbrooke.ca/)), Sherbrooke, Quebec, Canada
+* **Research Supervisor:** Dr. [Amine Trabelsi](https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/amine-trabelsi, "Academic Profile"), Assistant Professor, Department of Computer Science
+* **Research Area:** Natural Language Processing
+
 ## <img src="https://img.icons8.com/office/24/000000/graduation-cap.png"/> Bachelor of Science (B.Sc.) in Computer Science and Engineering
 
 ---

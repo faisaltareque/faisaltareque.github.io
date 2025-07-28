@@ -38,10 +38,10 @@ author_profile: true
 <img src="https://faisaltareque.github.io/images/pointer.png"/> [<span style ="color:DarkBlue">[Code & Dataset]</span>](https://github.com/dialect-ai/BenHeadGen)   [<span style ="color:DarkBlue">[Poster]</span>](https://faisaltareque.github.io/files/shironaam_eacl2023_poster_final.pdf)  [<span style ="color:DarkBlue">[Slides]</span>](https://faisaltareque.github.io/files/Shironaam_EACL_2023_Presentation.pdf)
 
 
-* <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [Crime Prediction using Machine Learning with a Novel Crime Dataset](https://arxiv.org/abs/2211.01551) \\
+* <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [A data-driven approach for predicting crime occurrence using machine learning models](https://link.springer.com/article/10.1007/s41060-025-00799-8) \\
 <img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> <b>Faisal Tareque Shohan</b>\*, Abu Ubaida Akash\*, Muhammad Ibrahim, Mohammad Shafiul Alam \\
-<img src="https://img.icons8.com/external-fauzidea-blue-fauzidea/20/null/external-journal-back-to-school-fauzidea-blue-fauzidea.png"/> <span style="color:RoyalBlue">Journal:</span> Cybernetics and Systems Journal ([UCBS](https://www.tandfonline.com/journals/ucbs20))\\
-<img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `under-review`
+<img src="https://img.icons8.com/external-fauzidea-blue-fauzidea/20/null/external-journal-back-to-school-fauzidea-blue-fauzidea.png"/> <span style="color:RoyalBlue">Journal:</span> International Journal of Data Science and Analytics ([IJDSA](https://link.springer.com/journal/41060))\\
+<img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `accepted`
 
 ## Ongoing Projects
 
@@ -53,8 +53,7 @@ author_profile: true
 <span style="color:RoyalBlue">Collaborators:</span> <b>Abu Ubaida Akash</b>, Mir Tafseer Nayeem, Faisal Tareque Shohan, Samsul Islam\\
 <span style="color:RoyalBlue">Status:</span> `ongoing` -->
 
-* <span style="color:RoyalBlue">Theme:</span> Controlled Summarization\\
-<span style="color:RoyalBlue">Collaborators:</span> <b>Faisal Tareque Shohan</b>, Mir Tafseer Nayeem, Shafiq Joty\\
+* <span style="color:RoyalBlue">Theme:</span> Multi-Agent Social Simulation\\
 <span style="color:RoyalBlue">Status:</span> `ongoing`
 
 <!-- {% for post in site.research reversed %}
